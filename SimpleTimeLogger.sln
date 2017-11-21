@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTimeLogger.Domain", "SimpleTimeLogger.Domain\SimpleTimeLogger.Domain.csproj", "{D871C2A3-EC7C-44F4-9439-F2CCF68B851D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTimeLogger.Data", "SimpleTimeLogger.Data\SimpleTimeLogger.Data.csproj", "{21870C17-D1D2-4CD8-B6AA-E88010B1B7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21870C17-D1D2-4CD8-B6AA-E88010B1B7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21870C17-D1D2-4CD8-B6AA-E88010B1B7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21870C17-D1D2-4CD8-B6AA-E88010B1B7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21870C17-D1D2-4CD8-B6AA-E88010B1B7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D871C2A3-EC7C-44F4-9439-F2CCF68B851D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D871C2A3-EC7C-44F4-9439-F2CCF68B851D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D871C2A3-EC7C-44F4-9439-F2CCF68B851D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D871C2A3-EC7C-44F4-9439-F2CCF68B851D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = FileName
+	EndGlobalSection
+EndGlobal
